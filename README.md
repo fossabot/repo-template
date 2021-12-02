@@ -1,2 +1,2 @@
-# zeta
-Systems programming language for Tachyon
+# repo-template
+Template for Tachyon repositories
